@@ -132,9 +132,10 @@
 
   @media (max-width: 767px) {
     .sidebar {
-      width: 100%;
+      width: 100%!important;
       top: -100%;
       transition: top 0.1s ease-in-out;
+      border-right: none;
     }
 
     .navbar-item p {

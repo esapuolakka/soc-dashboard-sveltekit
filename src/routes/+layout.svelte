@@ -31,5 +31,6 @@
     --nav-font-weight: 300;
     --nav-font-size: 1rem;
     --dark-bg-color: #rgb(48, 49, 63);
+    --sidebar-bg-color: #f7fafb;
   }
 </style>
